@@ -1,0 +1,7 @@
+C:\Users\IVAN\Desktop\web_api_empleados\obj\Debug\net5.0\web_api_empleados.csproj.AssemblyReference.cache
+C:\Users\IVAN\Desktop\web_api_empleados\obj\Debug\net5.0\web_api_empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\Desktop\web_api_empleados\obj\Debug\net5.0\web_api_empleados.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\web_api_empleados\obj\Debug\net5.0\web_api_empleados.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\web_api_empleados\obj\Debug\net5.0\web_api_empleados.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\web_api_empleados\obj\Debug\net5.0\web_api_empleados.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IVAN\Desktop\web_api_empleados\obj\Debug\net5.0\web_api_empleados.MvcApplicationPartsAssemblyInfo.cache
